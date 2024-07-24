@@ -1,0 +1,11 @@
+{
+  "name": "ultravoucher",
+  "version": "1.0.0",
+  "description": "anagram-test",
+  "main": "anagrams.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arfian Saiful Rifa'i",
+  "license": "ISC"
+}
